@@ -8,6 +8,7 @@
    ```sh 
    # Create tomcat directory
    cd /opt
+#  wget https://downloads.apache.org/tomcat/tomcat-11/v11.0.5/bin/apache-tomcat-11.0.5.tar.gz
    wget http://mirrors.fibergrid.in/apache/tomcat/tomcat-8/v8.5.35/bin/apache-tomcat-8.5.35.tar.gz
    tar -xvzf /opt/apache-tomcat-8.5.35.tar.gz
    ```
